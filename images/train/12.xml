@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>12.jpg</filename>
+	<path>D:\CoolThings\models\models\research\object_detection\images\train\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>690</xmin>
+			<ymin>691</ymin>
+			<xmax>1136</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>
